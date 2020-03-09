@@ -62,7 +62,7 @@
             </div>
         </div>
 </div>
-<div clas="body-div3">
+<div class="body-div3">
 <h1>${message}</h1>
 </div>
     <!--         <div class="article-card">
